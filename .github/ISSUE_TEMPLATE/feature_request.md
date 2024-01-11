@@ -13,7 +13,7 @@ Jasny i zwięzły opis problemu, np. Zawsze jestem sfrustrowany, gdy [...]
 Jasny i zwięzły opis tego, co ma się wydarzyć.
 
 **Opisz rozważane alternatywy**
-A clear and concise description of any alternative solutions or features you've considered.
+Jasny i zwięzły opis wszelkich rozważanych alternatywnych rozwiązań lub funkcjonalności.
 
 **Dodatkowy kontekst**
 Dodaj tutaj wszelkie inne informacje lub zrzuty ekranu dotyczące żądanej funkcjonalności.
