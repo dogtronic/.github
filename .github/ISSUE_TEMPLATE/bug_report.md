@@ -1,40 +1,37 @@
 ---
-name: Bug Report
-about: Create a report to help us improve
-title: "[BUG]"
+name: Zgłoszenie błędu
+about: Zgłoś błąd w aplikacji
+title: "[MODUŁ][FUNKCJONALNOŚĆ] Nazwa błędu"
 labels: bug
 assignees: ''
 ---
 
-SIEMA TUTAJ DOGTRONIK
+**Opisz błąd**
+Jasny i zwięzły opis błędu.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Kroki reprodukcji**
+Kroki w celu odtworzenia zachowania:
+1. Przejdź do '...'
+2. Kliknij na '...'
+3. Przewiń w dół do '...'
+4. Zobacz błąd
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Oczekiwany rezultat**
+Jasny i zwięzły opis tego, co miało się wydarzyć.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Załączniki**
+W razie potrzeby dodaj materiały które pomogą wyjaśnić problem.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Desktop (uzupełnij w razie konieczności):**
+ - System: [np. iOS]
+ - Przeglądarka [np. chrome, safari]
+ - Wersja [np. 22]
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Telefon (uzupełnij w razie konieczności):**
+ - Urządzenie: [np. iPhone6]
+ - System: [np. iOS8.1]
+ - Przeglądarka [np. stock browser, safari]
+ - Wersja [np. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
-
+**Dodatkowy kontekst**
+Dodaj tutaj wszelkie inne informacje dotyczące problemu.

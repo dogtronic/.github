@@ -1,23 +1,21 @@
 ---
-name: Feature request
+name: Nowa funkcjonalność
 about: Suggest an idea for this project
 title: "[FEATURE]"
 labels: feature
 assignees: ''
 ---
 
-SIEMA TUTAJ DOGTRONIK
+**Czy zgłoszona funkcjonalność jest związane z jakimś problemem?**
+Jasny i zwięzły opis problemu, np. Zawsze jestem sfrustrowany, gdy [...]
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Opisz pożądane rozwiązanie**
+Jasny i zwięzły opis tego, co ma się wydarzyć.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
+**Opisz rozważane alternatywy**
 A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Dodatkowy kontekst**
+Dodaj tutaj wszelkie inne informacje lub zrzuty ekranu dotyczące żądanej funkcjonalności.
 
 
