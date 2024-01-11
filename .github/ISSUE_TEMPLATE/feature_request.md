@@ -1,7 +1,7 @@
 ---
 name: Nowa funkcjonalność
 about: Zasugeruj zmiany lub nowe funkcjonalności
-title: "[FEATURE]"
+title: "[MODUŁ] Nazwa funkcjonalności"
 labels: feature
 assignees: ''
 ---
