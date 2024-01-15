@@ -16,6 +16,9 @@ Kroki w celu odtworzenia zachowania:
 3. Przewiń w dół do '...'
 4. Zobacz błąd
 
+**Rzeczywisty rezultat**
+Jasny i zwięzły opis tego, co się wydarzyło.
+
 **Oczekiwany rezultat**
 Jasny i zwięzły opis tego, co miało się wydarzyć.
 
